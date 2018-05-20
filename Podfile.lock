@@ -1,0 +1,16 @@
+PODS:
+  - INSPhotoGallery (1.2.5)
+
+DEPENDENCIES:
+  - INSPhotoGallery
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - INSPhotoGallery
+
+SPEC CHECKSUMS:
+  INSPhotoGallery: 8bd5b434e70d06dd698085f8e865f6602d82014b
+
+PODFILE CHECKSUM: 2dbcb427bb248b138f6ea03b8167bb8e1c459c52
+
+COCOAPODS: 1.5.0
